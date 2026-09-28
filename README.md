@@ -14,4 +14,4 @@ This project is part of the Natural Language Processing course. The main objecti
 3. **Analysis:** Reflected on the nearest neighbors to evaluate if the semantic relationships made sense and identified any surprising word associations based on the GloVe model.
 
 ## Dataset
-The project utilizes the **GloVe (Global Vectors for Word Representation)** dataset. Specifically, the `glove.6B.100d.txt` file (100-dimensional vectors) downloaded from Stanford's NLP group. Due to its large size, the dataset is not included in this repository but can be downloaded directly from the official source.
+The project utilizes the **GloVe (Global Vectors for Word Representation)** dataset. Specifically, the `glove.6B.100d.txt` file (100-dimensional vectors) originally downloaded from Stanford's NLP group. You can download the exact dataset used in this project directly from [Google Drive](https://drive.google.com/drive/folders/1CvRTb-A98qilZvhUL5PkF-iadUYDtcFJ?usp=sharing).
